@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#Batch generation of simulated genomes using SimuG
 import argparse
 import os
 import sys
