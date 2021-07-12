@@ -1,0 +1,32 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##bcftoolsVersion=1.10.2+htslib-1.10.2
+##bcftoolsCommand=mpileup -r NC_002945.4:1-217495 -a AD,ADF,ADR,DP,SP,INFO/AD,INFO/ADF,INFO/ADR -O b --min-MQ 60 -o /tmp/1.bcf -f ../NC_002945v4.fasta results_wo_outgroups/mapped/13-11594.bam results_wo_outgroups/mapped/14-MBovis.bam results_wo_outgroups/mapped/15-11643.bam results_wo_outgroups/mapped/17-11662.bam results_wo_outgroups/mapped/17-MBovis.bam results_wo_outgroups/mapped/19-11957.bam results_wo_outgroups/mapped/19-MBovis.bam results_wo_outgroups/mapped/22-12200.bam results_wo_outgroups/mapped/23-MBovis.bam results_wo_outgroups/mapped/24-MBovis.bam results_wo_outgroups/mapped/25-MBovis.bam results_wo_outgroups/mapped/26-12883.bam results_wo_outgroups/mapped/26-MBovis.bam results_wo_outgroups/mapped/27-MBovis.bam results_wo_outgroups/mapped/28-12935.bam results_wo_outgroups/mapped/29-MBovis.bam results_wo_outgroups/mapped/3-10110.bam results_wo_outgroups/mapped/30-MBovis.bam results_wo_outgroups/mapped/31-12952.bam results_wo_outgroups/mapped/35-MBovis.bam results_wo_outgroups/mapped/36-MBovis.bam results_wo_outgroups/mapped/37-MBovis.bam results_wo_outgroups/mapped/38-MBovis.bam results_wo_outgroups/mapped/39-MBovis.bam results_wo_outgroups/mapped/41-2165.bam results_wo_outgroups/mapped/41-MBovis.bam results_wo_outgroups/mapped/42-MBovis.bam results_wo_outgroups/mapped/43-MBovis.bam results_wo_outgroups/mapped/44-MBovis.bam results_wo_outgroups/mapped/45-MBovis.bam results_wo_outgroups/mapped/47-MBovis.bam results_wo_outgroups/mapped/48-2919.bam results_wo_outgroups/mapped/48-MBovis.bam results_wo_outgroups/mapped/49-MBovis.bam results_wo_outgroups/mapped/5-10284.bam results_wo_outgroups/mapped/50-MBovis.bam results_wo_outgroups/mapped/51-3292.bam results_wo_outgroups/mapped/51-MBovis.bam results_wo_outgroups/mapped/52-3698.bam results_wo_outgroups/mapped/54-MBovis.bam results_wo_outgroups/mapped/55-4348.bam results_wo_outgroups/mapped/56-MBovis.bam results_wo_outgroups/mapped/59-6110.bam results_wo_outgroups/mapped/59-MBovis.bam results_wo_outgroups/mapped/7-10423.bam
+##reference=file://../NC_002945v4.fasta
+##contig=<ID=NC_002945.4,length=4349904>
+##ALT=<ID=*,Description="Represents allele(s) other than observed.">
+##INFO=<ID=CovFor,Number=0,Type=Flag,Description="Coverage of Forward Reads">
+##INFO=<ID=CovRev,Number=1,Type=Integer,Description="Coverage of Reverse Reads">
+##INFO=<ID=Qual20,Number=1,Type=Float,Description="Number of Reads with Phred Qual higher than 20">
+##INFO=<ID=Cov,Number=1,Type=Integer,Description="Total Coverage in position">
+##INFO=<ID=Freq,Number=1,Type=Float,Description="Percentage of Reads with Qual higher than 20">
+##INFO=<ID=RPB,Number=1,Type=Float,Description="Mann-Whitney U test of Read Position Bias (bigger is better)">
+##INFO=<ID=MQB,Number=1,Type=Float,Description="Mann-Whitney U test of Mapping Quality Bias (bigger is better)">
+##INFO=<ID=BQB,Number=1,Type=Float,Description="Mann-Whitney U test of Base Quality Bias (bigger is better)">
+##INFO=<ID=MQSB,Number=1,Type=Float,Description="Mann-Whitney U test of Mapping Quality vs Strand Bias (bigger is better)">
+##INFO=<ID=SGB,Number=1,Type=Float,Description="Segregation based metric.">
+##INFO=<ID=MQ0F,Number=1,Type=Float,Description="Fraction of MQ0 reads (smaller is better)">
+##FORMAT=<ID=PL,Number=G,Type=Integer,Description="List of Phred-scaled genotype likelihoods">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Number of high-quality bases">
+##FORMAT=<ID=SP,Number=1,Type=Integer,Description="Phred-scaled strand bias P-value">
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths (high-quality bases)">
+##FORMAT=<ID=ADF,Number=R,Type=Integer,Description="Allelic depths on the forward strand (high-quality bases)">
+##FORMAT=<ID=ADR,Number=R,Type=Integer,Description="Allelic depths on the reverse strand (high-quality bases)">
+##bcftools_concatVersion=1.10.2+htslib-1.10.2
+##bcftools_concatCommand=concat -O b -o results_wo_outgroups/raw.bcf /tmp/1.bcf /tmp/217496.bcf /tmp/434991.bcf /tmp/652486.bcf /tmp/869981.bcf /tmp/1087476.bcf /tmp/1304971.bcf /tmp/1522467.bcf /tmp/1739962.bcf /tmp/1957457.bcf /tmp/2174952.bcf /tmp/2392447.bcf /tmp/2609942.bcf /tmp/2827437.bcf /tmp/3044933.bcf /tmp/3262428.bcf /tmp/3479923.bcf /tmp/3697418.bcf /tmp/3914913.bcf /tmp/4132408.bcf; Date=Mon Oct  5 12:10:00 2020
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##bcftools_callVersion=1.10.2+htslib-1.10.2
+##bcftools_callCommand=call -V indels --ploidy 1 -m -v -o results_wo_outgroups/calls.vcf results_wo_outgroups/raw.bcf; Date=Mon Oct  5 12:10:38 2020
+##bcftools_viewVersion=1.10.2+htslib-1.10.2
+##bcftools_viewCommand=view -c1 -Oz -s 3-10110 -o 3-10110.vcf.gz calls.vcf; Date=Tue Oct  6 13:20:41 2020
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	3-10110

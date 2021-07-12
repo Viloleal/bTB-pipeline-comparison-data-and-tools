@@ -1,0 +1,3 @@
+# Annotation file for storing repetitive regions with columns CHROM, START, END, RPT
+# number from 1, coordinates inclusive of start and stop
+# Removed positions for unfiltered analysis - Victor

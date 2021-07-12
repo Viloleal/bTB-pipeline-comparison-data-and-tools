@@ -1,0 +1,268 @@
+repeat_region	repeat_region	80272	80586	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB0097C	BQ2027_MB0097C	103745	104464	1	PE_family of proteins	-	-	-	Gene	5	6
+repeat_region	repeat_region	103748	105251	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE1	PPE1	105360	106751	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS1	PE_PGRS1	131420	132910	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS2	PE_PGRS2	149571	151187	1	PE_family of proteins	-	-	-	Gene	5	6
+PE1	PE1	177733	179499	1	PE_family of proteins	-	-	-	Gene	5	6
+PE2	PE2	179509	181086	1	PE_family of proteins	-	-	-	Gene	5	6
+PE3	PE3	187623	189029	1	PE_family of proteins	-	-	-	Gene	5	6
+PE4	PE4	189121	190629	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE2	PPE2	306202	307872	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS3b	PE_PGRS3b	331762	332004	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS3a	PE_PGRS3a	331827	334433	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS3	PE_PGRS3	334697	337330	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS4	PE_PGRS4	337580	340075	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE3	PPE3	340366	341976	1	PE_family of proteins	-	-	-	Gene	5	6
+PE5	PE5	350626	350934	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE4	PPE4	350937	352478	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS5	PE_PGRS5	362336	364156	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE5	PPE5	367197	370640	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE6	PPE6	370784	376741	1	PE_family of proteins	-	-	-	Gene	5	6
+PE6	PE6	400565	401080	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB0343	BQ2027_MB0343	401222	402733	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE8	PPE8	425173	435696	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE9	PPE9	467689	469020	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB0399	BQ2027_MB0399	473800	475125	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB0403	BQ2027_MB0403	476835	477203	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE10	PPE10	531770	533209	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE11	PPE11	544193	545749	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB0528	BQ2027_MB0528	607702	609213	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS6a	PE_PGRS6a	623943	625688	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS6b	PE_PGRS6b	625594	625821	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS7	PE_PGRS7	673239	677159	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1536	BQ2027_IS1536	702629	704012	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1557'-1	BQ2027_IS1557'-1	834176	834692	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS8	PE_PGRS8	834814	835332	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS9	PE_PGRS9	837525	839918	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS10	PE_PGRS10	840317	843046	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS11	PE_PGRS11	848349	850103	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE12	PPE12	850293	852230	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1547-1	BQ2027_IS1547-1	891218	892309	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1605'	BQ2027_IS1605'	922405	922692	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS12	PE_PGRS12	925781	926194	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS13	PE_PGRS13	926191	928512	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS14	PE_PGRS14	928739	931234	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1606'	BQ2027_IS1606'	948066	948396	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS15	PE_PGRS15	968884	970710	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE13	PPE13	977352	978668	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE14	PPE14	1020524	1021795	1	PE_family of proteins	-	-	-	Gene	5	6
+PE7	PE7	1021810	1022109	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1554	BQ2027_IS1554	1025924	1027359	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1554	insertion sequence:IS1554	1025924	1027359	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1535	BQ2027_IS1535	1027507	1029829	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1535	insertion sequence:IS1535	1027507	1029829	1	mobile_element	-	-	-	Gene	5	6
+repeat_region	repeat_region	1027526	1027542	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS16	PE_PGRS16	1090840	1093611	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS17	PE_PGRS17	1093828	1094835	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS18	PE_PGRS18	1095557	1096930	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1560'-1	BQ2027_IS1560'-1	1159396	1160908	1	mobile_element	-	-	-	Gene	5	6
+PPE15	PPE15	1161772	1162947	1	PE_family of proteins	-	-	-	Gene	5	6
+PE8	PE8	1163024	1163851	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS-LIKE-1	BQ2027_IS-LIKE-1	1165047	1166025	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1081-1	BQ2027_IS1081-1	1169747	1171209	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1081	insertion sequence:IS1081	1169747	1171181	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS19	PE_PGRS19	1188897	1190912	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS20	PE_PGRS20	1191245	1193536	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS21	PE_PGRS21	1212948	1215272	1	PE_family of proteins	-	-	-	Gene	5	6
+PE9	PE9	1215922	1216356	1	PE_family of proteins	-	-	-	Gene	5	6
+PE10	PE10	1216373	1216540	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS22	PE_PGRS22	1217878	1220430	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB1159C	BQ2027_MB1159C	1253016	1254371	1	PE_family of proteins	-	-	-	Gene	5	6
+repeat_region	repeat_region	1253016	1254371	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE16	PPE16	1263671	1265527	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB1179C	BQ2027_MB1179C	1277700	1279148	1	PE_family of proteins	-	-	-	Gene	5	6
+repeat_region	repeat_region	1277700	1279148	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS-LIKE-2	BQ2027_IS-LIKE-2	1279215	1280220	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS-LIKE	insertion sequence:IS-LIKE	1279215	1280192	1	mobile_element	-	-	-	Gene	5	6
+repeat_region	repeat_region	1279247	1279263	1	mobile_element	-	-	-	Gene	5	6
+repeat_region	repeat_region	1280217	1280220	1	mobile_element	-	-	-	Gene	5	6
+PPE17b	PPE17b	1300164	1300661	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE17a	PPE17a	1300663	1301205	1	PE_family of proteins	-	-	-	Gene	5	6
+PE12	PE12	1303156	1304082	1	PE_family of proteins	-	-	-	Gene	5	6
+PE13	PE13	1340281	1340580	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE18	PPE18	1340627	1341799	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1081-2	BQ2027_IS1081-2	1342571	1344005	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1081	insertion sequence:IS1081	1342571	1344005	1	mobile_element	-	-	-	Gene	5	6
+PE14	PE14	1358521	1358895	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS23	PE_PGRS23	1386261	1387949	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1557-2	BQ2027_IS1557-2	1470598	1472097	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1557	insertion sequence:IS1557	1470598	1472097	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS24	PE_PGRS24	1490598	1492409	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE19	PPE19	1534887	1536077	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB1413C	BQ2027_MB1413C	1552316	1553743	1	PE_family of proteins	-	-	-	Gene	5	6
+PE15	PE15	1562552	1562860	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE20	PPE20	1562857	1564476	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS25	PE_PGRS25	1573215	1574573	1	PE_family of proteins	-	-	-	Gene	5	6
+PE16	PE16	1607102	1608688	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS26	PE_PGRS26	1618946	1620421	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS27	PE_PGRS27	1631394	1635620	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS28	PE_PGRS28	1636997	1639384	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS29	PE_PGRS29	1656764	1657876	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE21	PPE21	1739719	1741755	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB1613C	BQ2027_MB1613C	1777937	1778938	1	PE_family of proteins	-	-	-	Gene	5	6
+repeat_region	repeat_region	1778282	1779644	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB1614C	BQ2027_MB1614C	1778943	1779611	1	PE_family of proteins	-	-	-	Gene	5	6
+PE17	PE17	1845538	1846470	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS30	PE_PGRS30	1852121	1855177	1	PE_family of proteins	-	-	-	Gene	5	6
+repeat_region	repeat_region	1916962	1918340	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB1728C	BQ2027_MB1728C	1916962	1918326	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE22	PPE22	1921247	1922404	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE23	PPE23	1922444	1923628	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1540'-1	BQ2027_IS1540'-1	1932189	1932363	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1540'-1	BQ2027_IS1540'-1	1936598	1936772	1	mobile_element	-	-	-	Gene	5	6
+PPE24	PPE24	1971421	1974576	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB1794C	BQ2027_MB1794C	1992108	1993364	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_ISB9'	BQ2027_ISB9'	1993433	1994662	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:ISB9	insertion sequence:ISB9	1993433	1994662	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS31	PE_PGRS31	1995463	1997337	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE25	PPE25	2020168	2021262	1	PE_family of proteins	-	-	-	Gene	5	6
+PE18	PE18	2021341	2021640	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE26	PPE26	2021654	2022835	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE27	PPE27	2023289	2024341	1	PE_family of proteins	-	-	-	Gene	5	6
+PE19	PE19	2024768	2025067	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE28	PPE28	2034317	2036284	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE29	PPE29	2036865	2038136	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE30	PPE30	2038248	2039639	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS32b	PE_PGRS32b	2039787	2041409	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS32a	PE_PGRS32a	2041443	2041706	1	PE_family of proteins	-	-	-	Gene	5	6
+PE20	PE20	2042936	2043235	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE31	PPE31	2043250	2044461	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE32	PPE32	2044785	2046014	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE33a	PPE33a	2046146	2046709	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE33b	PPE33b	2046710	2047558	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS33	PE_PGRS33	2056042	2057547	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS34	PE_PGRS34	2082732	2084132	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE34	PPE34	2157623	2163355	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE35b	PPE35b	2163693	2164697	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE35a	PPE35a	2164780	2166657	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB1980	BQ2027_MB1980	2192033	2193397	1	PE_family of proteins	-	-	-	Gene	5	6
+repeat_region	repeat_region	2192033	2193394	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS35	PE_PGRS35	2209570	2211246	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1607	BQ2027_IS1607	2239359	2240586	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1607	BQ2027_IS1607	2243769	2244996	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_MB2038C	BQ2027_MB2038C	2245142	2246398	1	PE_family of proteins	-	-	-	Gene	5	6
+pks12	pks12	2282855	2295310	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1556	BQ2027_IS1556	2324842	2326310	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1556	BQ2027_IS1556	2329253	2330721	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_MB2126	BQ2027_MB2126	2344641	2346293	1	PE_family of proteins	-	-	-	Gene	5	6
+PE22	PE22	2352253	2352549	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE36	PPE36	2352605	2353336	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE37	PPE37	2365907	2367301	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS37	PE_PGRS37	2372011	2373078	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS38	PE_PGRS38	2408169	2409641	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1558'-1	BQ2027_IS1558'-1	2422590	2423393	1	mobile_element	-	-	-	Gene	5	6
+PE23	PE23	2582737	2583885	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS39	PE_PGRS39	2599675	2600916	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE71	PPE71	2608062	2609435	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE40	PPE40	2610173	2612017	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS40	PE_PGRS40	2624235	2624420	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS41	PE_PGRS41	2665282	2666364	1	PE_family of proteins	-	-	-	Gene	5	6
+PE24	PE24	2678612	2679331	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1558-2	BQ2027_IS1558-2	2693240	2694450	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1558	insertion sequence:IS1558	2693240	2694450	1	mobile_element	-	-	-	Gene	5	6
+PPE41	PPE41	2699910	2700494	1	PE_family of proteins	-	-	-	Gene	5	6
+PE25	PE25	2700541	2700840	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB2496C	BQ2027_MB2496C	2744941	2745609	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS42d	PE_PGRS42d	2766513	2767016	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS42b	PE_PGRS42b	2767013	2767960	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS42a	PE_PGRS42a	2767977	2768597	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS43b	PE_PGRS43b	2772466	2775918	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS43a	PE_PGRS43a	2775915	2777444	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1081-3	BQ2027_IS1081-3	2799702	2801136	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1081	insertion sequence:IS1081	2799702	2801136	1	mobile_element	-	-	-	Gene	5	6
+PE26	PE26	2806993	2808471	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS44	PE_PGRS44	2893410	2895050	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE42	PPE42	2906914	2908656	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS45	PE_PGRS45	2915468	2916862	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS46	PE_PGRS46	2931978	2934314	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1081'-4	BQ2027_IS1081'-4	2939425	2940353	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1081'-4	BQ2027_IS1081'-4	2943837	2944765	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS47	PE_PGRS47	3014940	3016454	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE43	PPE43	3037880	3039064	1	PE_family of proteins	-	-	-	Gene	5	6
+PE27	PE27	3039144	3039971	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE44	PPE44	3040295	3041443	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1602	BQ2027_IS1602	3056724	3058755	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1602	BQ2027_IS1602	3061136	3063167	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1604'	BQ2027_IS1604'	3073369	3074775	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1555'	BQ2027_IS1555'	3076708	3077106	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1604'	BQ2027_IS1604'	3077781	3079187	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS6110	BQ2027_IS6110	3081416	3082770	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS6110	insertion sequence:IS6110	3081416	3082770	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS48	PE_PGRS48	3123196	3125043	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1539	BQ2027_IS1539	3155093	3157360	1	mobile_element	-	-	-	Gene	5	6
+PPE45	PPE45	3161722	3162948	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1533	BQ2027_IS1533	3244939	3247151	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1533	BQ2027_IS1533	3249351	3251563	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1538	BQ2027_IS1538	3294867	3296891	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1538	insertion sequence:IS1538	3294867	3296891	1	mobile_element	-	-	-	Gene	5	6
+PPE46	PPE46	3337966	3339279	1	PE_family of proteins	-	-	-	Gene	5	6
+PE27A	PE27A	3339300	3339386	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE47	PPE47	3340347	3341654	1	PE_family of proteins	-	-	-	Gene	5	6
+PE29	PE29	3341651	3341965	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1081-5	BQ2027_IS1081-5	3342285	3343719	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1081	insertion sequence:IS1081	3342285	3343719	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_MB3101	BQ2027_MB3101	3397738	3399012	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1081-6	BQ2027_IS1081-6	3437873	3439307	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1081-6	BQ2027_IS1081-6	3442285	3443719	1	mobile_element	-	-	-	Gene	5	6
+PPE49	PPE49	3448660	3449835	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE50	PPE50	3459518	3460663	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE51	PPE51	3461315	3462457	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE52	PPE52	3469609	3470838	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE53	PPE53	3486912	3488681	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE70	PPE70	3488929	3490827	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1603	BQ2027_IS1603	3516208	3517597	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1603	insertion sequence:IS1603	3516208	3517597	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1547-2	BQ2027_IS1547-2	3668986	3670071	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1547-2	BQ2027_IS1547-2	3673399	3674484	1	mobile_element	-	-	-	Gene	5	6
+PPE54	PPE54	3691027	3695043	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS50b	PE_PGRS50b	3695092	3699105	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS50a	PE_PGRS50a	3699102	3700721	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE55b	PPE55b	3701658	3704843	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE55a	PPE55a	3704840	3711130	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1608'-1	BQ2027_IS1608'-1	3706864	3707893	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1561'	BQ2027_IS1561'	3712238	3712978	1	mobile_element	-	-	-	Gene	5	6
+PPE56d	PPE56d	3713892	3717551	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE56b	PPE56b	3717545	3723679	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE56a	PPE56a	3723737	3725041	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS51	PE_PGRS51	3736507	3738387	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1560-2	BQ2027_IS1560-2	3752270	3753837	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1560-2	BQ2027_IS1560-2	3756683	3758250	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS52	PE_PGRS52	3758349	3760598	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE57	PPE57	3799280	3799816	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1540-2	BQ2027_IS1540-2	3799757	3800920	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1552	BQ2027_IS1552	3801411	3802255	1	mobile_element	-	-	-	Gene	5	6
+repeat_region	repeat_region	3835634	3837026	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_MB3496	BQ2027_MB3496	3836073	3837026	1	PE_family of proteins	-	-	-	Gene	5	6
+PE31	PE31	3844844	3845140	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE60	PPE60	3845177	3846358	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS53	PE_PGRS53	3876605	3880687	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS54	PE_PGRS54	3880978	3885360	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS55	PE_PGRS55	3888267	3894083	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS57	PE_PGRS57	3894914	3897892	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE61	PPE61	3916971	3918191	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE62	PPE62	3918333	3920081	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE63	PPE63	3925687	3927126	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE64	PPE64	3945608	3947266	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS58	PE_PGRS58	3979031	3980785	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS59	PE_PGRS59	3984225	3985703	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1534	BQ2027_IS1534	4012903	4015020	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1534	BQ2027_IS1534	4017315	4019432	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1553	BQ2027_IS1553	4020155	4021447	1	mobile_element	-	-	-	Gene	5	6
+insertion sequence:IS1553	insertion sequence:IS1553	4020155	4021447	1	mobile_element	-	-	-	Gene	5	6
+PE33	PE33	4032882	4033166	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS60	PE_PGRS60	4035281	4035595	1	PE_family of proteins	-	-	-	Gene	5	6
+PE_PGRS61	PE_PGRS61	4035589	4036302	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE66	PPE66	4131157	4131513	1	PE_family of proteins	-	-	-	Gene	5	6
+PE34	PE34	4136877	4137212	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1557'-3	BQ2027_IS1557'-3	4189149	4190642	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1557'-3	BQ2027_IS1557'-3	4193561	4195054	1	mobile_element	-	-	-	Gene	5	6
+PE_PGRS62	PE_PGRS62	4217256	4218770	1	PE_family of proteins	-	-	-	Gene	5	6
+BQ2027_IS1537	BQ2027_IS1537	4242228	4244100	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1608'-2	BQ2027_IS1608'-2	4254615	4255644	1	mobile_element	-	-	-	Gene	5	6
+BQ2027_IS1608'-2	BQ2027_IS1608'-2	4259027	4260056	1	mobile_element	-	-	-	Gene	5	6
+PE35	PE35	4291477	4291773	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE68	PPE68	4291807	4292913	1	PE_family of proteins	-	-	-	Gene	5	6
+PPE69	PPE69	4312853	4314052	1	PE_family of proteins	-	-	-	Gene	5	6
+PE36	PE36	4314131	4314364	1	PE_family of proteins	-	-	-	Gene	5	6
+

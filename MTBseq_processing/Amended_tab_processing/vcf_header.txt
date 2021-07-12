@@ -1,0 +1,39 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##bcftoolsVersion=1.9+htslib-1.9
+##contig=<ID=NC_002945.4,length=4349904>
+##ALT=<ID=*,Description="Represents allele(s) other than observed.">
+##INFO=<ID=INDEL,Number=0,Type=Flag,Description="Indicates that the variant is an INDEL.">
+##INFO=<ID=IDV,Number=1,Type=Integer,Description="Maximum number of reads supporting an indel">
+##INFO=<ID=IMF,Number=1,Type=Float,Description="Maximum fraction of reads supporting an indel">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Raw read depth">
+##INFO=<ID=VDB,Number=1,Type=Float,Description="Variant Distance Bias for filtering splice-site artefacts in RNA-seq data (bigger is better)",Version="3">
+##INFO=<ID=RPB,Number=1,Type=Float,Description="Mann-Whitney U test of Read Position Bias (bigger is better)">
+##INFO=<ID=MQB,Number=1,Type=Float,Description="Mann-Whitney U test of Mapping Quality Bias (bigger is better)">
+##INFO=<ID=BQB,Number=1,Type=Float,Description="Mann-Whitney U test of Base Quality Bias (bigger is better)">
+##INFO=<ID=MQSB,Number=1,Type=Float,Description="Mann-Whitney U test of Mapping Quality vs Strand Bias (bigger is better)">
+##INFO=<ID=SGB,Number=1,Type=Float,Description="Segregation based metric.">
+##INFO=<ID=MQ0F,Number=1,Type=Float,Description="Fraction of MQ0 reads (smaller is better)">
+##FORMAT=<ID=PL,Number=G,Type=Integer,Description="List of Phred-scaled genotype likelihoods">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Number of high-quality bases">
+##FORMAT=<ID=SP,Number=1,Type=Integer,Description="Phred-scaled strand bias P-value">
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths">
+##FORMAT=<ID=ADF,Number=R,Type=Integer,Description="Allelic depths on the forward strand">
+##FORMAT=<ID=ADR,Number=R,Type=Integer,Description="Allelic depths on the reverse strand">
+##INFO=<ID=AD,Number=R,Type=Integer,Description="Total allelic depths">
+##INFO=<ID=ADF,Number=R,Type=Integer,Description="Total allelic depths on the forward strand">
+##INFO=<ID=ADR,Number=R,Type=Integer,Description="Total allelic depths on the reverse strand">
+##bcftools_concatVersion=1.9+htslib-1.9
+##bcftools_concatCommand=concat -O b -o ./unfilt/raw.bcf /tmp/1.bcf /tmp/54374.bcf /tmp/108748.bcf /tmp/163122.bcf /tmp/217496.bcf /tmp/271869.bcf /tmp/326243.bcf /tmp/380617.bcf /tmp/434991.bcf /tmp/489365.bcf /tmp/543738.bcf /tmp/598112.bcf /tmp/652486.bcf /tmp/706860.bcf /tmp/761234.bcf /tmp/815607.bcf /tmp/869981.bcf /tmp/924355.bcf /tmp/978729.bcf /tmp/1033102.bcf /tmp/1087476.bcf /tmp/1141850.bcf /tmp/1196224.bcf /tmp/1250598.bcf /tmp/1304971.bcf /tmp/1359345.bcf /tmp/1413719.bcf /tmp/1468093.bcf /tmp/1522467.bcf /tmp/1576840.bcf /tmp/1631214.bcf /tmp/1685588.bcf /tmp/1739962.bcf /tmp/1794335.bcf /tmp/1848709.bcf /tmp/1903083.bcf /tmp/1957457.bcf /tmp/2011831.bcf /tmp/2066204.bcf /tmp/2120578.bcf /tmp/2174952.bcf /tmp/2229326.bcf /tmp/2283700.bcf /tmp/2338073.bcf /tmp/2392447.bcf /tmp/2446821.bcf /tmp/2501195.bcf /tmp/2555569.bcf /tmp/2609942.bcf /tmp/2664316.bcf /tmp/2718690.bcf /tmp/2773064.bcf /tmp/2827437.bcf /tmp/2881811.bcf /tmp/2936185.bcf /tmp/2990559.bcf /tmp/3044933.bcf /tmp/3099306.bcf /tmp/3153680.bcf /tmp/3208054.bcf /tmp/3262428.bcf /tmp/3316802.bcf /tmp/3371175.bcf /tmp/3425549.bcf /tmp/3479923.bcf /tmp/3534297.bcf /tmp/3588670.bcf /tmp/3643044.bcf /tmp/3697418.bcf /tmp/3751792.bcf /tmp/3806166.bcf /tmp/3860539.bcf /tmp/3914913.bcf /tmp/3969287.bcf /tmp/4023661.bcf /tmp/4078035.bcf /tmp/4132408.bcf /tmp/4186782.bcf /tmp/4241156.bcf /tmp/4295530.bcf; Date=Mon Feb 22 15:44:46 2021
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##INFO=<ID=ICB,Number=1,Type=Float,Description="Inbreeding Coefficient Binomial test (bigger is better)">
+##INFO=<ID=HOB,Number=1,Type=Float,Description="Bias in the number of HOMs number (smaller is better)">
+##INFO=<ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes for each ALT allele, in the same order as listed">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Number of high-quality ref-forward , ref-reverse, alt-forward and alt-reverse bases">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Average mapping quality">
+##bcftools_callVersion=1.9+htslib-1.9
+##bcftools_callCommand=call -V indels --ploidy 1 -m -v -o ./unfilt/calls.vcf ./unfilt/raw.bcf; Date=Mon Feb 22 15:46:58 2021
+##bcftools_filterVersion=1.9+htslib-1.9
+##bcftools_filterCommand=filter -i 'QUAL>=40 && FORMAT/DP>=30 && DP4>=4 && MQ>30' -o ./unfilt/filtered.vcf.gz -O z ./unfilt/calls.vcf; Date=Mon Feb 22 15:48:58 2021
+##bcftools_viewVersion=1.10.2+htslib-1.10.2
