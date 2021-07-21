@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+#This script is used to extract proximal positions (10bp) from zc.vcf files produced during the step1 script of vSNP.
+#In order to obtain the full list of positions in the total number of vcf files, run proximal_SNP.py on the "removed positions" directory.
+#To remove these positions correctly from vSNP, include the previous list of positions in the vSNP filter excel file.
 
 import numpy as np
 import pandas as pd
