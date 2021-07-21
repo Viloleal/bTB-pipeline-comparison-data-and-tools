@@ -16,9 +16,10 @@ parsimonious SNPs from vSNP, use the af2122_zc.vcf file included in the vSNP_pro
           Then use bcftools consensus caller in accordance with the parameters registered in the BovTB code and use the specific Masking files included in the work/
           directory.
 5. Performance analysis: extract all of the vcf files per each of the analysis you carried out and use som.py to compare it with the simulated VCF. Note that the simulated VCF files need to be appropriately filtered as well (use bcftools, for example). Use bcftools isec to obtain FN, FP and agreeing positions.
-6. FN analysis: extract positions using Allele_extraction/vcf_pos_extract.py on the FN, FP, agreeing vcf files.Then run FN_comparison.R on the csv files.
-7. venn_diagram: extract all SNP positions using the script in the Allele_extraction/ directory "vcf_processing.py". Move the "[prefix]-allpositions.tsv" files to a new directory and run all_pos_ven.R to obtain the venn diagrams.
-8. Tree analysis:
+6. Annotations: if you would like to annotate the vcf files, you may use vcf_annotation.py (requires SnpEff and the updated Mbovis annotation (https://doi.org/10.1099/acmi.0.000129). In order to annotate vcf files and obtain a summarised annotation file per sample, use annotation.py (requires sufix, for example the "0000" obtained for FN in bcftools isec).
+7. FN analysis: extract positions using Allele_extraction/vcf_pos_extract.py on the FN, FP, agreeing vcf files.Then run FN_comparison.R on the csv files.
+8. venn_diagram: extract all SNP positions using the script in the Allele_extraction/ directory "vcf_processing.py". Move the "[prefix]-allpositions.tsv" files to a new directory and run all_pos_ven.R to obtain the venn diagrams.
+9. Tree analysis:
        a. BovTB: Use snp-sites to extract the core SNPs from the consensus genomes.
        b. Simulation: use sim_coreextractor.py on the simulated vcf files to extract the (polymorphic) core SNP alignment fasta.
        c. Run modify_samples.sh to change sample names to number codes.
