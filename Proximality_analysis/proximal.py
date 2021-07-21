@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+#This script is used to extract proximal positions (10bp) from the vcf files obtained from the simulation and BovTB. 
+#vSNP requires a different script (zc_proximal.py), and MTBseq/SNiPgenie have their own code included in the script.
+#In order to obtain the full list of positions in the total number of vcf files, run proximal_SNP.py on the "removed positions" directory.
+#To remove these positions correctly from all the vcfs, use the previous list with, for example, bcftools.
 
 import numpy as np
 import pandas as pd
