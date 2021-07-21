@@ -18,4 +18,12 @@ parsimonious SNPs from vSNP, use the af2122_zc.vcf file included in the vSNP_pro
 5. Performance analysis: extract all of the vcf files per each of the analysis you carried out and use som.py to compare it with the simulated VCF. Note that the simulated VCF files need to be appropriately filtered as well (use bcftools, for example). Use bcftools isec to obtain FN, FP and agreeing positions.
 6. FN analysis: extract positions using Allele_extraction/vcf_pos_extract.py on the FN, FP, agreeing vcf files.Then run FN_comparison.R on the csv files.
 7. venn_diagram: extract all SNP positions using the script in the Allele_extraction/ directory "vcf_processing.py". Move the "[prefix]-allpositions.tsv" files to a new directory and run all_pos_ven.R to obtain the venn diagrams.
-8. 
+8. Tree analysis:
+       a. BovTB: Use snp-sites to extract the core SNPs from the consensus genomes.
+       b. Simulation: use sim_coreextractor.py on the simulated vcf files to extract the (polymorphic) core SNP alignment fasta.
+       c. Run modify_samples.sh to change sample names to number codes.
+       d. All: run raxml on the fasta alignment files.
+       e. Homoplasies: run homoplasyFinder as indicated in its corresponding wiki.
+       f. Treespace: run trees_per_pipeline.R
+       g. Pairwise tree comparison: run plot_trees_wo_outgroups_final.R      
+       
