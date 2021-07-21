@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#This script is used to extract all of the variant positions in tsv format (example: 1057G). An individual tsv file is obtained for each vcf, but also
+#a tsv file containing all the positions per vcf and a tsv file containing the total number of positions included in all of the samples (duplicates removed).
+#The latter tsv file can be used to draw the venn diagrams using all_pos_venn.R
 import numpy as np
 import pandas as pd
 import glob
