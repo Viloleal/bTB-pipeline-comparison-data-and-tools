@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#This script will generate a concatenated core SNP file including only polymorphic SNPs. Run this script on a directory containing the vcf files you want to analyse.
+#This was specifically used to create concatenated core SNP files from the simulated vcfs.
 import numpy as np
 import pandas as pd
 import glob
