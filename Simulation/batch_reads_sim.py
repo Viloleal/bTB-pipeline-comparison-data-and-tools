@@ -14,4 +14,4 @@ for (files,prefix) in zip(fasta,prefixes):
 	file = open("fasta_prefixes.txt", "a")
 	file.write("List of files \n fasta \n %s \n Prefix \n %s \n ------------------- \n" % (listToStr1,listToStr2))
 	file.close()
-	subprocess.call(['bash', '-c', 'java -jar ~/bin/ArtificialFastqGenerator/ArtificialFastqGenerator.jar -O ./%s -R %s -S \'>\' -F1 19-038412-MI0710332_S13_R1.fastq -F2 19-038412-MI0710332_S13_R2.fastq -RL 250 -TLM 650 -TLSD 60 -CMP 250 -CSD 0.1 -N 100000 SE true -URQS true' % (prefix,files)])
+	subprocess.call(['bash', '-c', 'java -jar ~/bin/ArtificialFastqGenerator/ArtificialFastqGenerator.jar -O ./%s -R %s -S \'>\' -F1 19-038412-MI0710332_S13_R1.fastq -F2 19-038412-MI0710332_S13_R2.fastq -RL 250 -TLM 650 -TLSD 60 -CMP 250 -CSD 0.1 -N 100000 -SE true -URQS true' % (prefix,files)])
