@@ -45,8 +45,6 @@ mtbseq <- read.csv(file=sprintf("~/Data/Wicklow/FINAL/venn/10_pemobel_other_filt
 bovtb <- read.csv(file=sprintf("~/Data/Wicklow/FINAL/venn/10_pemobel_other_filtered/bovtb_positions_rem_mixed.tsv"),header = TRUE)
 obj_list <- list(simulated$simulated, genie$snpgenie,vsnp$vsnp,mtbseq$mtbseq, bovtb$bovtb)
 
-ab <- get.venn.partitions(obj_list, keep.elements=TRUE)
-make.truth.table()
 cbbPalette <- c("#999999", "#E69F00", "#0072B2", "#009E73", "#F0E442")
 venn.diagram(x=obj_list,
              category.names = c("Simulated","SNiPgenie","vSNP","MTBseq","BovTB"),
