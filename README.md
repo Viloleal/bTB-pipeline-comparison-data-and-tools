@@ -1,7 +1,7 @@
 # bTB-pipeline-comparison-data-and-tools
 This is a public repository containing the processing scripts used in the bTB variant pipeline comparison. A brief description of the script is included in the first lines of the code.
 
-Below is the process followed for the results obtained in the publication. The simulated genomes and reads have been uploaded to "zenodo.org".
+Below is the process followed for the results obtained in the publication. The simulated genomes and reads have been uploaded to "zenodo.org" (DOI: 10.5281/zenodo.5179838).
 
 1. Run "batch_reads_sim.py"
 2. Input the simulated reads in each of the pipelines, adjusting the different parameters to include proximal window filtering (in the case of vSNP, BovTB or the simulated vcf files, check the directory "Proximality_Analysis") or the specific hard filter files (check the "Filter_files" directory). In order to obtain non-
